@@ -1,0 +1,19 @@
+{
+  "name": "dockerHubDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "bin": {
+    "dockerHubDemo": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^2.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
